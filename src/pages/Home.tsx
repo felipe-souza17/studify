@@ -1,5 +1,6 @@
 import Navbar from "../components/Navbar";
 import estudante from '../assets/estudando.jpg'
+import Footer from "../components/Footer";
 
 export default function Home() {
     return (
@@ -14,6 +15,7 @@ export default function Home() {
                 </div>
                 <img className="w-[600px] h-[600px] rounded-s-full rounded-b-full object-cover" src={estudante} alt="Imagem de um aluno com livro aberto usando óulos para estudar" />
             </main>
+            <Footer/>
         </>
     )
 }
