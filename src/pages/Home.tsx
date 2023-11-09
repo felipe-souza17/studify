@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <>
             <Navbar/>
-            <main className="flex bg-[#121214] p-8 py-16 mx-auto justify-between text-white">
+            <main className="flex bg-gradient-to-t from-[#121214] to-[#73bce385] p-8 py-16 mx-auto justify-between text-white">
                 <div className="p-4 w-1/2">
                     <h1 className="text-8xl font-black">O seu lugar de <span className="text-[#73BBE3]">estudos é aqui.</span></h1>
                     <p className="font-light text-xl my-8">Comece agora a fazer suas próprias anotações de matérias e conteúdos 
