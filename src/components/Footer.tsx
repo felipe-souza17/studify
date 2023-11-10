@@ -8,7 +8,7 @@ export default function Footer() {
                 <Books color="#73BBE3" size={64} />
                 <span className="font-bold ml-4 text-4xl">Studify</span>
             </div>
-            <div className="flex gap-20 font-medium text-2xl">
+            <div className="flex gap-16 font-medium text-base">
                 <span>Início </span>
                 <span>•</span>
                 <span>Cadastrar</span>
