@@ -104,6 +104,16 @@ export default function Materias() {
             </p>
           </div>
         </div>
+        <iframe
+          className="mx-auto rounded-xl"
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/lrRmCBgq6JE?si=rB7MeOhu1J3wfNEc"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
       </section>
       <Footer />
     </>
