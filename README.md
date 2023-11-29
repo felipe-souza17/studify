@@ -1,4 +1,26 @@
-# Studify
+# Studify: Transformando o Aprendizado Futuro, com Acessibilidade para Todos
+
+Prepare-se para uma revolução no mundo do aprendizado com o futuro lançamento do Studify, um aplicativo inovador que está sendo cuidadosamente desenvolvido para ser acessível a todos, com um foco especial naqueles que enfrentam desafios relacionados ao TDAH (Transtorno de Déficit de Atenção e Hiperatividade).
+
+## Recursos de Acessibilidade Planejados:
+
+#### Adaptação ao Ritmo Individual:
+
+Em breve, o Studify oferecerá recursos que permitirão aos usuários personalizar o ritmo de aprendizado, garantindo uma experiência educacional adaptada às suas próprias necessidades e preferências.
+
+#### Ferramentas de Foco Aprimoradas:
+
+Estamos nos dedicando a desenvolver ferramentas específicas no Studify para maximizar a concentração, proporcionando técnicas de aprendizado multissensorial e exercícios interativos para transformar os desafios em oportunidades de aprendizado eficaz.
+
+#### Design Intuitivo e Navegabilidade Amigável:
+
+O Studify, quando lançado, terá um design intuitivo e uma navegação amigável, garantindo uma experiência acessível para todos os usuários, incluindo aqueles com TDAH.
+
+#### Suporte Personalizado:
+
+Com o lançamento do Studify, nossa equipe estará pronta para fornecer suporte personalizado aos usuários com TDAH. Estamos comprometidos em oferecer assistência, responder a dúvidas e fornecer orientação para garantir que cada estudante tenha o apoio necessário.
+
+Ao escolher o Studify, você estará se preparando para fazer parte de uma comunidade que valoriza a inclusão e a acessibilidade. Em breve, todos serão bem-vindos para explorar um novo mundo de aprendizado, onde cada estudante é capacitado a atingir seu pleno potencial acadêmico. Aguarde ansiosamente o lançamento do Studify e junte-se a nós nessa jornada educacional emocionante.
 
 ## Desenvolvimento
 
