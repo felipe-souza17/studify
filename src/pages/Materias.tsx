@@ -18,7 +18,8 @@ export default function Materias() {
             estudantes, de todas as idades e níveis de ensino, as ferramentas
             necessárias para conquistar o sucesso acadêmico. Nosso compromisso é
             transformar a jornada de aprendizado, tornando-a mais acessível,
-            personalizada e envolvente do que nunca.
+            personalizada e envolvente do que nunca, principalmente ajudando o
+            pública com TDAH em seus estudos.
           </p>
         </section>
       </main>
@@ -51,12 +52,22 @@ export default function Materias() {
             uma comunidade apaixonada por aprender.
           </p>
         </div>
+        <div className="my-8 self-end w-1/2">
+          <h3 className="font-medium text-base">Pomodoro</h3>
+          <p className="font-light text-sm  mt-4">
+            &#8226; Um exemplo de dica seria a técnica de Pomodoro para estudos,
+            que consiste em estudar por períodos de 20 a 30 minutos, seguidos
+            por um intervalo de 5 minutos, essa abordagem evita que o estudo se
+            torne muito massante e ajuda a manter o foco de maneira mais
+            eficiente.
+          </p>
+        </div>
       </section>
       <section className="text-center  text-white">
         <span className="py-4 px-6 bg-gradient-to-t from-[#3a6896] to-[#00a6ff] rounded-full">
           2
         </span>
-        <h2 className="text-3xl font-medium mt-10">Infográfico</h2>
+        <h2 className="text-3xl font-medium mt-10">TDAH</h2>
         <div className="flex mx-auto">
           <div className="flex flex-col text-center w-1/2 bg-[#1E1E1E] p-8 my-8 rounded-3xl mx-4">
             <Book className="mx-auto" size={96} color="#73BBE3" />
